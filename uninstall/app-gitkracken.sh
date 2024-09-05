@@ -1,1 +1,1 @@
-sudo snap remove gitkracken
+sudo snap install gitkraken --classic
