@@ -1,1 +1,1 @@
-sudo snap install datagrip
+sudo snap install datagrip --classic

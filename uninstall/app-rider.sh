@@ -1,1 +1,1 @@
-sudo snap remove rider
+sudo snap remove rider --classic
