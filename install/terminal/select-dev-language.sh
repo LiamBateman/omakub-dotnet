@@ -41,7 +41,8 @@ if [[ -n "$languages" ]]; then
 			mise use --global java@latest
 			;;
 		DotNet)
-			sudo apt install -y dotnet-sdk-8.0
+			sudo apt -y install dotnet-sdk-8.0
+			dotnet --list-sdks
 			;;
 		esac
 	done
