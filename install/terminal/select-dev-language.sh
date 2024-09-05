@@ -41,9 +41,7 @@ if [[ -n "$languages" ]]; then
 			mise use --global java@latest
 			;;
 		DotNet)
-			sudo add-apt-repository ppa:dotnet/backports
 			sudo apt install -y dotnet-sdk-8.0
-			sudo apt install -y dotnet-sdk-6.0
 			;;
 		esac
 	done
