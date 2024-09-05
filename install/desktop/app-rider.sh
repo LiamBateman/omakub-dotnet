@@ -1,1 +1,1 @@
-sudo snap install rider
+sudo snap install rider --classic
