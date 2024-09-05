@@ -17,7 +17,7 @@ CHOICES=(
 	"> All         Re-run any of the default installers"
 	"Rider         .Net IDE"
 	"Datagrip      Database GUI"
-	"GitKracken    Git GUI"
+	"GitKraken     Git GUI"
 	"<< Back       "
 )
 
