@@ -15,6 +15,9 @@ CHOICES=(
 	"Zed           Fast all-purpose editor"
 	"Zoom          Attend and host video chat meetings"
 	"> All         Re-run any of the default installers"
+	"Rider         .Net IDE"
+	"Datagrip      Database GUI"
+	"GitKracken    Git GUI"
 	"<< Back       "
 )
 
