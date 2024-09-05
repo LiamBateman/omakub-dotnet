@@ -41,7 +41,7 @@ if [[ -n "$languages" ]]; then
 			mise use --global java@latest
 			;;
 		DotNet6)
-			sudo add-apt-repository ppa:dotnet/backports
+			sudo add-apt-repository -y ppa:dotnet/backports
 			sudo apt install -y dotnet-sdk-6.0
 			dotnet --list-sdks
 			;;
